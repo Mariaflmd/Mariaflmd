@@ -1,6 +1,11 @@
-## 🌸 Olá, me chamo Maria!
+<h1 aligh="center">  🌸 Olá, me chamo Maria!</h1>
+  
+<p aligh="center">
+  Bem-vindo(a) ao meu perfil!😊
+  
+  Sou uma estudante apaixonada por livros e tudo de bom na vida!
+</p>
 
-Sou uma estudante apaixonada por livros e tudo de bom na vida!
 
 ## 🚀 Sobre mim:
 
@@ -9,3 +14,5 @@ Sou uma estudante apaixonada por livros e tudo de bom na vida!
 - 📚 Atualmente aprendendo: Estrutura de Dados.
 - 📫 Como me encontrar: mariaclarafalmeidaa@gmail.com ou maria.c.almeida14@aluno.senai.br
 - 🌱 Interesses: livros, área de humanas e TI.
+
+<h1 aligh="center">  Obrigada pelo interesse!!💘</h1>
